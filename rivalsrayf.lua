@@ -11,8 +11,8 @@ local UserInputService = game:GetService("UserInputService")
 local LocalPlayer      = Players.LocalPlayer
 local Camera           = workspace.CurrentCamera
 
-local DISCORD_LINK = "https://discord.gg/REPLACEME"
-local WEBSITE_LINK = "https://REPLACEME.com"
+local DISCORD_LINK = "E"
+local WEBSITE_LINK = "m"
 
 -- ============================================================
 --   WINDOW
