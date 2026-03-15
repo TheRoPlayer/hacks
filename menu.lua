@@ -273,9 +273,8 @@ function RaylikeUI:CreateWindow(options)
     local title = create("TextLabel", {
         Name = "Title",
         BackgroundTransparency = 1,
-        Position = UDim2.fromOffset(16, 0),
-        Size = UDim2.new(1, -120, 0, 24),
         Position = UDim2.new(0, 16, 0, 6),
+        Size = UDim2.new(1, -120, 0, 24),
         Font = Enum.Font.GothamBold,
         TextSize = 16,
         TextColor3 = Theme.Text,
